@@ -1,0 +1,30 @@
+.
+└── ./ Project/
+    ├── ./ Project/assets/
+    │   ├── ./ Project/assets/executive_overview.png
+    │   ├── ./ Project/assets/financial_forecast.png
+    │   └── ./ Project/assets/operations.png
+    ├── ./ Project/dashboard/
+    │   ├── ./ Project/dashboard/dashboard.pbix
+    │   └── ./ Project/dashboard/dashboard.pdf
+    ├── ./ Project/database/
+    │   ├── ./ Project/database/olist_customers_dataset.csv
+    │   ├── ./ Project/database/olist_geolocation_dataset.csv
+    │   ├── ./ Project/database/olist_order_items_dataset.csv
+    │   ├── ./ Project/database/olist_order_payments_dataset.csv
+    │   ├── ./ Project/database/olist_order_reviews_dataset.csv
+    │   ├── ./ Project/database/olist_orders_dataset.csv
+    │   ├── ./ Project/database/olist_products_dataset.csv
+    │   ├── ./ Project/database/olist_sellers_dataset.csv
+    │   └── ./ Project/database/product_category_name_translation.csv
+    ├── ./ Project/navigation/
+    │   └── ./ Project/navigation/file_tree.txt
+    ├── ./ Project/questions/
+    │   └── ./ Project/questions/Problem Statement.docx
+    ├── ./ Project/report/
+    │   └── ./ Project/report/summary_report.docx
+    ├── ./ Project/scripts/
+    │   ├── ./ Project/scripts/load_data_to_mysql.ipynb
+    │   ├── ./ Project/scripts/queries.ipynb
+    │   └── ./ Project/scripts/sql_queries.sql
+    └── ./ Project/README.md
